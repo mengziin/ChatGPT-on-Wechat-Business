@@ -1,0 +1,8 @@
+
+wecom:
+  token:
+  encodingAESKey:
+  corpId:
+
+openai:
+  apiKey:
